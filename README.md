@@ -2,6 +2,8 @@
 
 Fresh tmux config for Personal use, intended as successor of my fork of [samoshkin's tmux config](https://github.com/arminveres/tmux-config)
 
+![image](https://user-images.githubusercontent.com/45210978/214135521-e0a729af-9aed-4fac-81c5-79f189b74374.png)
+
 ## TODO
 
 - Add install script
